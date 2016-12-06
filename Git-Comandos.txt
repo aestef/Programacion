@@ -1,0 +1,12 @@
+$ cd -> Acceder a carpeta.
+$ pwd -> Para saber en qué carpeta estamos.
+$ ls -> Para saber qué archivos tiene la carpeta.
+$ git clone "dirección del proyecto" -> Clona el proyecto y sus archivos.
+$ touch "NombreArchivo.extensión" -> Crea archivo. (Esto al inicio sirve para asociar las computadoras)
+$ git add .Agregar un archivo al proyecto o agragar modificaciones
+$ git add "NombreArchivo.extensión" -> Agregar un archivo al proyecto. (Esto al inicio sirve para asociar las computadoras)
+$ git commit -a -m "Aquí se agrega comentario". -> Para guardar. (Esto al inicio sirve para asociar las computadoras)
+$ git status -> Para ver todo lo que he hecho.
+$ git push -> Sube actualizaciones o archivos. (Esto al inicio sirve para asociar las computadoras)
+$ git pull -> Baja actualizaciones o archivos.
+$ git rm "NombreArchivo.extensión" -> Eliminar archivos.
